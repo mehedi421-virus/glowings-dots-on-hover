@@ -23,7 +23,7 @@ ul li{
     background: rgba(255,255,255,.2);
     border-radius: 50%;
     color: #000635    
-    font-family: sans-serif;    ;
+    font-family: sans-serif;
     transition: .5s;
 }
 ul li:hover
